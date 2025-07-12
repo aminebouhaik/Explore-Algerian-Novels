@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": " شجرة مريم",
+      "body": "Samia Ben Driss is an Algerian writer who was born in 1971 in Ferdjioua in Mila Province. She received her doctorate from the University of Constantine and is currently a professor at the University Center Abdelhafid Boussouf",
+      "author": "Samia Ben Driss",
+      "id": "1"
+    },
+    {
+      "title": "حائط المبكى",
+      "body": "A writer and academic, he is interested in novels and plays creatively as well as in his capacity as a critic and teacher, in addition to writing short stories, children’s literature, and literary criticism. He began his literary activity at an early age; his first works were published in newspapers. His first short story collection was published in 1994 under the title لمن تهتف الحناجر؟ / For Whom Do the Throats Chant?,  followed by novels, plays, short stories, criticism, and children’s literature..",
+      "author": "Ezzedine Jalaouji",
+      "id": "2"
+    },
+    {
+      "title": "كلمات تحت الشمس ",
+      "body": "Nassima Ben Abdallah is one of the literary names that has been remarkably positioned in the Algerian creative scene ever since her first short story collection  كلمات تحت الشمس / Words Under the Sun was published by Al-Jahizia in 1999, with her second short story collection published by the Algerian Writers Union in 2004. She has also published in several major Algerian newspapers.",
+      "author": "Nassima Ben Abdallah",
+      "id": "3"
+    },
+    {
+      "title": " The Zanjiyya",
+      "body": "The Algerian writer Aisha Bennour has been writing short stories and novels since the end of the 1980s. She studied psychology at the University of Bouzaréah. She wrote as a journalist for many national and Arab newspapers and magazines and contributed articles and studies on women’s and children’s issues. Her works were published in several editions, some of them in other Arab countries and in France. They are also available on online platforms. Some of her novels have been translated into French, English, and Spanish, and many studies have been written about her books. She has participated in national forums and international conferences.",
+      "author": "Aisha Bennour",
+      "id": "4"
+    },
+    {
+      "title": " The Stranger’s Night",
+      "body": "Mourad Boukerzaza is an Algerian writer, novelist, and journalist, born in Constantine in 1963. He earned his degree in law and administration but has been a writer since 1985. He has over 30 years of experience in the broadcasting, cultural, and intellectual fields through working as a director for many local radio stations in Algeria, including Radio Mila and Radio Constantine.",
+      "author": "Mourad Boukerzaza",
+      "id": "5"
+    },
+    {
+      "id": "c103",
+      "title": " Letters of the Blond Bat",
+      "body": "Al-Harbaoui graduated from the Center for Philosophy at the University of Bouzaréah in Algiers in 1995. She has published in the most important Algerian and has prepared and presented a number of radio programs.",
+      "author": "Latifa al-Harbaoui"
+    }
+  ]
+}
